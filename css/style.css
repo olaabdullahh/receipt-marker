@@ -1,0 +1,18 @@
+#result {
+    position: relative;
+    width: 50%;
+    height: 100%;
+    display: none;
+}
+.row {
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+.col-md-6 {
+    flex: 0 0 auto !important;
+    width: 50% !important;
+}
+.m {
+    position: absolute;
+    right: 0px;
+}
